@@ -12,7 +12,8 @@ The data is **synthetic**. It is generated with known price elasticities, so eve
 ## Dashboards
 - Web version: `dashboard/index.html` (open it in a browser, or enable GitHub Pages)
 - Tableau Public: https://public.tableau.com/app/profile/sakshi.bhardwaj5595/viz/pricingelasticity_17950171420420/Dashboard1
-- Screenshot: add `dashboard/screenshot.png`
+- Screenshot: <img width="1440" height="900" alt="screenshot-dashboard" src="https://github.com/user-attachments/assets/b8bb39a7-24b9-439d-b9e8-a3c8cec0f992" />
+
 
 ## Run it yourself
 ```bash
